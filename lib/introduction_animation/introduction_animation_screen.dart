@@ -1,11 +1,11 @@
-import 'package:flutter_application_1/introduction_animation/components/care_view.dart';
-import 'package:flutter_application_1/introduction_animation/components/center_next_button.dart';
-import 'package:flutter_application_1/introduction_animation/components/mood_diary_vew.dart';
-import 'package:flutter_application_1/introduction_animation/components/relax_view.dart';
-import 'package:flutter_application_1/introduction_animation/components/splash_view.dart';
-import 'package:flutter_application_1/introduction_animation/components/top_back_skip_view.dart';
-import 'package:flutter_application_1/introduction_animation/components/welcome_view.dart';
 import 'package:flutter/material.dart';
+import 'components/care_view.dart';
+import 'components/center_next_button.dart';
+import 'components/mood_diary_vew.dart';
+import 'components/relax_view.dart';
+import 'components/splash_view.dart';
+import 'components/top_back_skip_view.dart';
+import 'components/welcome_view.dart';
 
 class IntroductionAnimationScreen extends StatefulWidget {
   const IntroductionAnimationScreen({Key? key}) : super(key: key);
