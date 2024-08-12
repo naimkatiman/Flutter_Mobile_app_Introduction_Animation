@@ -1,16 +1,90 @@
-# flutter_application_1
+```markdown
+# Introduction Animation Web App
 
-A new Flutter project.
+![Flutter Web](https://img.shields.io/badge/Flutter-Web-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2.19-blue?logo=dart)
 
-## Getting Started
+Welcome to the Introduction Animation Web App! This Flutter web application showcases a beautiful and engaging onboarding experience with smooth animations and transitions.
 
-This project is a starting point for a Flutter application.
+## 🚀 Live Demo
 
-A few resources to get you started if this is your first Flutter project:
+Experience the app live: [Introduction Animation Web App](https://your-demo-url-here.com)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Demo](https://media.giphy.com/media/l0HlvcRyVJeO8Gmju/giphy.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Smooth page transitions
+- Engaging animations
+- Responsive design for various screen sizes
+- Cross-browser compatibility
+
+## 🖥️ Screens
+
+1. **Splash Screen**
+   
+   ![Splash Screen](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+2. **Relax View**
+   
+   ![Relax View](https://media.giphy.com/media/26BRsQmMAHdg1LNug/giphy.gif)
+
+3. **Care View**
+   
+   ![Care View](https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif)
+
+4. **Mood Diary View**
+   
+   ![Mood Diary](https://media.giphy.com/media/l1J9PVAZTGx0BvSY8/giphy.gif)
+
+5. **Welcome View**
+   
+   ![Welcome](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```
+   git clone https://your-repository-url.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd introduction_animation
+   ```
+
+3. Get dependencies:
+   ```
+   flutter pub get
+   ```
+
+4. Run the app in your preferred browser:
+   ```
+   flutter run -d chrome
+   ```
+   or
+   ```
+   flutter run -d edge
+   ```
+
+## 🌐 Browser Compatibility
+
+Tested and working on:
+- Google Chrome
+- Microsoft Edge
+- Mozilla Firefox
+- Safari
+
+## 📱 Mobile Responsiveness
+
+This web app is designed to be responsive and work well on various screen sizes, from mobile devices to desktop browsers.
+
+![Responsive Design](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
+## 📄 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+
